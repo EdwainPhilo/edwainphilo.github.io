@@ -2,15 +2,15 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://philoblog.top
+url: https://edwainphilo.github.io
 date_format: "ordinal"
 title: Philo Personal Blog
 subtitle: 
 description: "彭武倜的个人博客，QQ号：2272314673"
-keywords: Philo Personal Blog, Wuti Peng, Philonb, pengwuti
+keywords: Philo Personal Blog, EdwainPhilo
 timezone: Asia/Beijing
 encoding: "utf-8"
-repository: Philonb/Philo.github.io
+repository: EdwainPhilo/edwainphilo.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
