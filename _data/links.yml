@@ -1,0 +1,11 @@
+- name: Philo Personal blog
+  url: https://philoblog.top
+  src: life
+
+- name: 舍友的博客My temp blog
+  url: https://bugleesir.github.io
+  src: life
+
+- name: 胡鸽鸽的博客 青空域
+  url: http://halc.top
+  src: www
