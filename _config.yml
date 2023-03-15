@@ -48,12 +48,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Wuti Peng
+author: Philo
 organization: 
 organization_url: 
-github_username: Philonb
+github_username: EdwainPhilo
 location: Nanchang, China
-email: 
+email: philo_m@outlook.com
 
 # ---------------- #
 #    Navigation    #
@@ -130,14 +130,14 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: Philonb
+    owner: EdwainPhilo
     repo: blog-comments
     oauth:
         client_id: d3dd280361ed0c37b4dc
         client_secret: bc429f1dbbc368e776241d79c428d9ed7dfaf609
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: Philonb
+    owner: EdwainPhilo
     repo: blog-comments
     clientID: d3dd280361ed0c37b4dc
     clientSecret: bc429f1dbbc368e776241d79c428d9ed7dfaf609
